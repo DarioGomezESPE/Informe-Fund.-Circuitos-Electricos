@@ -17,6 +17,6 @@ Comprender los dos primeros temas del libro Principios de Circuitos Eléctricos-
 
 • Mapa mental segundo capítulo
 [![imagen-2022-05-24-040850986.png](https://i.postimg.cc/PJfF8120/imagen-2022-05-24-040850986.png)](https://postimg.cc/FdqxMktx)
-[![imagen-2022-05-24-042432771.png](https://i.postimg.cc/PrNzCdm6/imagen-2022-05-24-042432771.png)](https://postimg.cc/vcF6jF29)
+[![imagen-2022-05-24-042702538.png](https://i.postimg.cc/MKPwYmf6/imagen-2022-05-24-042702538.png)](https://postimg.cc/1fqbm6K2)
 
 3.EJERCICIOS
