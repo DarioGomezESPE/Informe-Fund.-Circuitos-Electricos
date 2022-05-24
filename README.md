@@ -12,7 +12,7 @@ Comprender los dos primeros temas del libro Principios de Circuitos Eléctricos-
 
 2.MARCO TEÓRICO (RESUMEN)
 
-
+[imagen-2022-05-24-035509007.png](https://postimg.cc/dhnhfMrs)
 
 
 
