@@ -20,4 +20,4 @@ Comprender los dos primeros temas del libro Principios de Circuitos Eléctricos-
 
 [![imagen-2022-05-24-042432771.png](https://i.postimg.cc/PrNzCdm6/imagen-2022-05-24-042432771.png)](https://postimg.cc/vcF6jF29)
 
-
+3.EJERCICIOS
