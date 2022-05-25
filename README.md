@@ -25,3 +25,8 @@ Ejercicios primer capítulo
 
 [![imagen-2022-05-25-003222410.png](https://i.postimg.cc/JhK7sgX8/imagen-2022-05-25-003222410.png)](https://postimg.cc/Z9Bzgwjs)
 [![imagen-2022-05-25-002957365.png](https://i.postimg.cc/N0PqqwTK/imagen-2022-05-25-002957365.png)](https://postimg.cc/WDrfgC5V)
+[![imagen-2022-05-25-003327939.png](https://i.postimg.cc/1XD33zcC/imagen-2022-05-25-003327939.png)](https://postimg.cc/ZvKSf4Qp)
+[![imagen-2022-05-25-003415003.png](https://i.postimg.cc/c1fxYrwT/imagen-2022-05-25-003415003.png)](https://postimg.cc/c64GG1D8)
+[![imagen-2022-05-25-003448485.png](https://i.postimg.cc/26hD4Kb3/imagen-2022-05-25-003448485.png)](https://postimg.cc/k6JzCwyd)
+[![imagen-2022-05-25-003515116.png](https://i.postimg.cc/k43rXv1C/imagen-2022-05-25-003515116.png)](https://postimg.cc/KKNp0Bhp)
+
