@@ -22,5 +22,5 @@ Comprender los dos primeros temas del libro Principios de Circuitos Eléctricos-
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Ejercicios primer capítulo
-[![imagen-2022-05-25-002801078.png](https://i.postimg.cc/VNvBTymZ/imagen-2022-05-25-002801078.png)](https://postimg.cc/4KC97SKp)
+[![imagen-2022-05-25-003110291.png](https://i.postimg.cc/KzZKVBPG/imagen-2022-05-25-003110291.png)](https://postimg.cc/hJ5PQJZ6)
 [![imagen-2022-05-25-002957365.png](https://i.postimg.cc/N0PqqwTK/imagen-2022-05-25-002957365.png)](https://postimg.cc/WDrfgC5V)
