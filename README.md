@@ -23,5 +23,5 @@ Comprender los dos primeros temas del libro Principios de Circuitos Eléctricos-
 
 Ejercicios primer capítulo
 
-[![imagen-2022-05-25-003110291.png](https://i.postimg.cc/KzZKVBPG/imagen-2022-05-25-003110291.png)](https://postimg.cc/hJ5PQJZ6)
+[![imagen-2022-05-25-003222410.png](https://i.postimg.cc/JhK7sgX8/imagen-2022-05-25-003222410.png)](https://postimg.cc/Z9Bzgwjs)
 [![imagen-2022-05-25-002957365.png](https://i.postimg.cc/N0PqqwTK/imagen-2022-05-25-002957365.png)](https://postimg.cc/WDrfgC5V)
