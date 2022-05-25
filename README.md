@@ -41,7 +41,7 @@ Ejercicios segundo capítulo
 
 4.VIDEO
 
-httsdads
+Link: https://youtu.be/MVZXDhREbHw
 
 5. CONCLUSIONES 
 
