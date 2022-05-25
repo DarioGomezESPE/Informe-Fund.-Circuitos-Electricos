@@ -30,3 +30,19 @@ Ejercicios primer capítulo
 [![imagen-2022-05-25-003448485.png](https://i.postimg.cc/26hD4Kb3/imagen-2022-05-25-003448485.png)](https://postimg.cc/k6JzCwyd)
 [![imagen-2022-05-25-003515116.png](https://i.postimg.cc/k43rXv1C/imagen-2022-05-25-003515116.png)](https://postimg.cc/KKNp0Bhp)
 
+Ejercicios segundo capítulo
+
+[![imagen-2022-05-25-003648419.png](https://i.postimg.cc/9fy815b3/imagen-2022-05-25-003648419.png)](https://postimg.cc/xkT3TZBg)
+[![imagen-2022-05-25-003737026.png](https://i.postimg.cc/g0b4xtWg/imagen-2022-05-25-003737026.png)](https://postimg.cc/rDg5bJz4)
+[![imagen-2022-05-25-003806512.png](https://i.postimg.cc/ydYmRwry/imagen-2022-05-25-003806512.png)](https://postimg.cc/bGWScFPZ)
+[![imagen-2022-05-25-003849827.png](https://i.postimg.cc/766zhSfB/imagen-2022-05-25-003849827.png)](https://postimg.cc/XZRqDGKF)
+[![imagen-2022-05-25-003928698.png](https://i.postimg.cc/L8pNX0RN/imagen-2022-05-25-003928698.png)](https://postimg.cc/3dtgf1kv)
+[![imagen-2022-05-25-004007783.png](https://i.postimg.cc/YCrYTctK/imagen-2022-05-25-004007783.png)](https://postimg.cc/56rXFRHn)
+
+4.VIDEO
+
+httsdads
+
+5. CONCLUSIONES 
+
+6. BIBLIOGRAFÍA
