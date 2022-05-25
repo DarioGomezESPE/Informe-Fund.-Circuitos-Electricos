@@ -43,6 +43,11 @@ Ejercicios segundo capítulo
 
 Link: https://youtu.be/MVZXDhREbHw
 
-5. CONCLUSIONES 
+5.CONCLUSIONES 
 
-6. BIBLIOGRAFÍA
+• Las bases para el estudio de los fundamentos de circuitos eléctricos son la compresión de los numeros grandes y pequeños a través de la notacion de ingenieria que permite representar valores de un manera eficiente con el uso de prefijos, asi mismo lo fundamental es comprender los conceptos voltaje, amperaje y resistencia y como se relacionan con los electrones. Posteriormente es necesario comprender como esta compuesto un circuito eléctrico, su forma de representar y como las anteriores magnitudes actuan sobre el circuito.
+
+6.BIBLIOGRAFÍA
+
+• Floy, T. (2007). Principios de circuitos eléctricos - Octava edición . PEARSON EDUCACIÓN. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
