@@ -33,8 +33,8 @@ Ejercicios primer capítulo
 Ejercicios segundo capítulo
 
 [![imagen-2022-05-25-003648419.png](https://i.postimg.cc/9fy815b3/imagen-2022-05-25-003648419.png)](https://postimg.cc/xkT3TZBg)
-[![imagen-2022-05-25-003737026.png](https://i.postimg.cc/g0b4xtWg/imagen-2022-05-25-003737026.png)](https://postimg.cc/rDg5bJz4)
-[![imagen-2022-05-25-003806512.png](https://i.postimg.cc/ydYmRwry/imagen-2022-05-25-003806512.png)](https://postimg.cc/bGWScFPZ)
+[![imagen-2022-05-25-004752359.png](https://i.postimg.cc/qR4N6ygf/imagen-2022-05-25-004752359.png)](https://postimg.cc/KKpGdKnQ)
+[![imagen-2022-05-25-002801078.png](https://i.postimg.cc/VNvBTymZ/imagen-2022-05-25-002801078.png)](https://postimg.cc/4KC97SKp)
 [![imagen-2022-05-25-003849827.png](https://i.postimg.cc/766zhSfB/imagen-2022-05-25-003849827.png)](https://postimg.cc/XZRqDGKF)
 [![imagen-2022-05-25-003928698.png](https://i.postimg.cc/L8pNX0RN/imagen-2022-05-25-003928698.png)](https://postimg.cc/3dtgf1kv)
 [![imagen-2022-05-25-004007783.png](https://i.postimg.cc/YCrYTctK/imagen-2022-05-25-004007783.png)](https://postimg.cc/56rXFRHn)
